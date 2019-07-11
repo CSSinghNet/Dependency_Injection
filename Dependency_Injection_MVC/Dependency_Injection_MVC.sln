@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Injection_MVC", "Dependency_Injection_MVC\Dependency_Injection_MVC.csproj", "{EB8C6D31-48F9-4229-AD95-954A89816694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{8C8AC5BB-010B-476B-B07A-75DB251D0A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8C6D31-48F9-4229-AD95-954A89816694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8C6D31-48F9-4229-AD95-954A89816694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8C6D31-48F9-4229-AD95-954A89816694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8C6D31-48F9-4229-AD95-954A89816694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8AC5BB-010B-476B-B07A-75DB251D0A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8AC5BB-010B-476B-B07A-75DB251D0A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8AC5BB-010B-476B-B07A-75DB251D0A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8AC5BB-010B-476B-B07A-75DB251D0A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC18FD9-D140-4DAC-A0BC-B29A257FE361}
+	EndGlobalSection
+EndGlobal
